@@ -27,7 +27,7 @@
         "btn_bg": "#000000",
         "btn_border": "#000000",
         "btn_text": "#ffffff",
-        "button_link": "shopify:\/\/collections\/all",
+        "button_link": "shopify://collections/all",
         "button_size": "small",
         "button_text": "CONOCE NUESTRA GARANTÍA",
         "content_position": "center-right",
@@ -36,7 +36,7 @@
         "desktop_title_size": 48,
         "enable_parallax": false,
         "highlight_font": "body",
-        "image": "shopify:\/\/shop_images\/jez-timms-jIejftgdU3w-unsplash.jpg",
+        "image": "shopify://shop_images/jez-timms-jIejftgdU3w-unsplash.jpg",
         "mobile_button_size": "m-small",
         "mobile_height": "500px",
         "mobile_title_size": 36,
@@ -140,7 +140,7 @@
         "btn_bg": "#000000",
         "btn_border": "#000000",
         "btn_text": "#ffffff",
-        "button_link": "shopify:\/\/collections\/all",
+        "button_link": "shopify://collections/all",
         "button_size": "small",
         "button_text": "Shop Now",
         "content_position": "center-left",
@@ -149,7 +149,7 @@
         "desktop_title_size": 70,
         "enable_parallax": true,
         "highlight_font": "body",
-        "image": "shopify:\/\/shop_images\/priscilla-du-preez-BjhUu6BpUZA-unsplash.jpg",
+        "image": "shopify://shop_images/priscilla-du-preez-BjhUu6BpUZA-unsplash.jpg",
         "mobile_button_size": "m-small",
         "mobile_height": "500px",
         "mobile_title_size": 36,
@@ -189,10 +189,10 @@
         "bottom_space_desktop": 0,
         "bottom_space_mobile": 30,
         "btn_as_link": false,
-        "btn_link": "https:\/\/webmefy.com\/",
+        "btn_link": "https://webmefy.com/",
         "btn_text": "DESCUBRE",
         "content_position": "left",
-        "description": "<p>¿Te imaginas una ginebra hecha solo para ti? Aquí no eliges lo que ya está hecho, aquí lo creas tú. Después de experimentar nuestras ginebras premium, te ofrecemos la posibilidad de personalizar cada aspecto: desde los botánicos hasta la etiqueta. Haz que cada botella hable de ti. Tu ginebra, tus reglas. ¿Te atreves?<\/p>",
+        "description": "<p>¿Te imaginas una ginebra hecha solo para ti? Aquí no eliges lo que ya está hecho, aquí lo creas tú. Después de experimentar nuestras ginebras premium, te ofrecemos la posibilidad de personalizar cada aspecto: desde los botánicos hasta la etiqueta. Haz que cada botella hable de ti. Tu ginebra, tus reglas. ¿Te atreves?</p>",
         "heading": "TU GINEBRA, A TU MANERA.",
         "heading_size": "h2",
         "highlight_font": "body",
@@ -214,7 +214,7 @@
       "blocks": {
         "button_cqg8Pe": {
           "settings": {
-            "btn_link": "https:\/\/webmefy.com\/",
+            "btn_link": "https://webmefy.com/",
             "btn_text": "CONOCE NUESTRO PROCESO DE PRODUCCIÓN",
             "button_size": "small",
             "mobile_button_size": "m-med"
@@ -233,16 +233,16 @@
         "image_7m3q4Q": {
           "settings": {
             "bgcolor": "secondary",
-            "first_image": "shopify:\/\/shop_images\/world_10.png",
+            "first_image": "shopify://shop_images/world_10.png",
             "image_shadow": true,
             "image_shadow_color": "#26413c",
-            "second_image": "shopify:\/\/shop_images\/lafnetscha_grapes.webp"
+            "second_image": "shopify://shop_images/lafnetscha_grapes.webp"
           },
           "type": "image"
         },
         "text_T6M8Qb": {
           "settings": {
-            "content": "<p>¿Qué hace que nuestras ginebras sean diferentes? Desde la maceración ultrasónica hasta la destilación en frío, usamos técnicas de vanguardia para asegurarnos de que cada botella sea única. Cada paso en el proceso está pensado para llevar la ginebra a un nivel extraordinario.<\/p>"
+            "content": "<p>¿Qué hace que nuestras ginebras sean diferentes? Desde la maceración ultrasónica hasta la destilación en frío, usamos técnicas de vanguardia para asegurarnos de que cada botella sea única. Cada paso en el proceso está pensado para llevar la ginebra a un nivel extraordinario.</p>"
           },
           "type": "text"
         }
@@ -265,7 +265,7 @@
       "blocks": {
         "richtext_mMb3kt": {
           "settings": {
-            "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.<\/p>",
+            "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.</p>",
             "heading": "Rich text",
             "highlight_font": "body",
             "seo_heading": "h2",
@@ -293,7 +293,7 @@
       "blocks": {
         "richtext_QhUfEJ": {
           "settings": {
-            "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.<\/p>",
+            "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.</p>",
             "heading": "Rich text",
             "highlight_font": "body",
             "seo_heading": "h2",
@@ -334,7 +334,7 @@
             "btn_text": "#ffffff",
             "btn_text_m": "#000000",
             "button2_alternate": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_link2": "",
             "button_size": "large",
             "button_text": "Shop Now",
@@ -373,7 +373,7 @@
             "btn_text": "#ffffff",
             "btn_text_m": "#000000",
             "button2_alternate": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_link2": "",
             "button_size": "small",
             "button_text": "SHOP",
@@ -382,7 +382,7 @@
             "desc_color_m": "#ffffff",
             "desktop_content_position": "d-center-right",
             "desktop_title_size": 50,
-            "image": "shopify:\/\/shop_images\/image_2.png",
+            "image": "shopify://shop_images/image_2.png",
             "mobile_button_size": "m-med",
             "mobile_content_position": "m-center",
             "mobile_title_size": 36,
@@ -413,7 +413,7 @@
             "btn_text": "#ffffff",
             "btn_text_m": "#000000",
             "button2_alternate": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_link2": "",
             "button_size": "large",
             "button_text": "Shop Now",
@@ -452,7 +452,7 @@
             "btn_text": "#ffffff",
             "btn_text_m": "#000000",
             "button2_alternate": true,
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_link2": "",
             "button_size": "large",
             "button_text": "Shop Now",
