@@ -1,0 +1,159 @@
+
+@font-face {
+  font-family: "FS Siena";
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url("//gins4u.com/cdn/fonts/fs_siena/fssiena_n1.ad143eed097b7877f77d08b319a0bcc9c2170aab.woff2?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=f08bda786ac6945f10327219e5f81a648a28655eef1e91927f0382d4e1a65abb") format("woff2"),
+       url("//gins4u.com/cdn/fonts/fs_siena/fssiena_n1.d8fc3a36761cc0b22ff2d1333cdd4bb3f96b923f.woff?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=c1d7996e54909b2b9a599a47e99402f322394e4b9c2fff3f95a01f3e93b58b19") format("woff");
+}
+
+@font-face {
+  font-family: "FS Siena";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//gins4u.com/cdn/fonts/fs_siena/fssiena_n7.aca6020295025c8342ac1f5cc41446138b75c935.woff2?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=04204382c3ade4e1355c561770382c082478939f2c87477575db2c2536e5a205") format("woff2"),
+       url("//gins4u.com/cdn/fonts/fs_siena/fssiena_n7.5ff133ec877cc8e3fc7f7e8ad18118aea67def6b.woff?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=fb7f50917c596e5fb9de9c615bdc13e0896af037a4c8d9a87d8e4b90b5a5b27c") format("woff");
+}
+
+@font-face {
+  font-family: "FS Siena";
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+  src: url("//gins4u.com/cdn/fonts/fs_siena/fssiena_i1.2f787c94ae602c91ef62a06fe9136440d50349f0.woff2?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=c756b96f510e467c5eaa057a234dabcf5b3d34ee9dbdbc19a037e2faf14093bc") format("woff2"),
+       url("//gins4u.com/cdn/fonts/fs_siena/fssiena_i1.a281fc8c8019779933ac77c196c3cb252df672b5.woff?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=721c96e99650fafe2fbbbff18c209c299ae96e577c54babeb0bd924479c69eac") format("woff");
+}
+
+@font-face {
+  font-family: "FS Siena";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//gins4u.com/cdn/fonts/fs_siena/fssiena_i7.698a03250dfc8e6b6eec1680d76928258c97d30a.woff2?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=65f755d0291ec0efd919e8f74ed8a6203c6c1db67adb77bd4450ee3468b65b79") format("woff2"),
+       url("//gins4u.com/cdn/fonts/fs_siena/fssiena_i7.6ea2a95e014551913d0061789427f2056d1794d7.woff?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=8496bab77ae3084b69d2e96dc05337929ef2deee4a1ddf2de2d28d3609e584f2") format("woff");
+}
+
+@font-face {
+  font-family: "Playfair Display";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//gins4u.com/cdn/fonts/playfair_display/playfairdisplay_n4.9cf7fc4f6a5a48eb27738cad395f0eba18922755.woff2?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=73e2ef10b5bb5621b999612afac0f1da4f419a2e6173dba83d8036dc13579cd3") format("woff2"),
+       url("//gins4u.com/cdn/fonts/playfair_display/playfairdisplay_n4.8a3fef162b1f576396eb89e46872ef50eeb08158.woff?h1=OGZiMGI4LTIuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2luczR1LmNvbQ&h3=Z2luczR1Lm15c2hvcGlmeS5jb20&h4=Z2luczR1LmNo&hmac=5861520761acb1b6ecd2f8fa224fcc5dd4d4606140a8978e16450861ccd4dc8f") format("woff");
+}
+
+
+:root {
+  --gray: #ececec;
+  --dark-gray: #747474;
+  --green:#6cad61;
+  --red:#ec7c7c;
+  --heading-font-family:"Playfair Display",serif;
+  --heading-font-weight:400;
+  --font-family:"FS Siena",sans-serif;
+  --body-font-weight:100;
+  --body-font-weight-bold: 300;
+  --thin:100;
+  --light:300;
+  --normal:400;
+  --medium:500;
+  --semibold:600;
+  --bold:700; 
+  --extrabold:900;
+  --theme-color: #fffaff;
+  --theme-light-color: rgba(255, 250, 255, 0.1);
+  --colorTextBody: #000000;
+  --colorLightTextBody: rgba(0, 0, 0, 0.5);
+  --colorXlightTextBody: rgba(0, 0, 0, 0.3);
+  --colorXXlightTextBody: rgba(0, 0, 0, 0.1);
+  --cartDotColor: #efb34c;
+  --cartDotColorLight:rgba(239, 179, 76, 0.3);
+  --cartDotColorNull:rgba(239, 179, 76, 0);
+  --colorBtnPrimary: #3d1e06;
+  --colorBtnPrimaryText: #ffffff; 
+  --colorBtnPrimaryBorder: #3d1e06; 
+  --colorBtnSecondary: #ffffff;
+  --colorBtnSecondaryText:#000000;
+  --colorBtnSecondaryBorder:#000000;  
+  --primaryColorBody: #fffaff;
+  --saleBadgeBg:#efb34c;
+  --saleBadgeText:#ffffff;
+  --soldBadgeBg:#E22120;
+  --soldBadgeText:#ffffff;
+  --preorderBadgeBg:#E22120;
+  --preorderBadgeText:#ffffff;
+  --customBadgeBg:#000000;
+  --customBadgeText:#ffffff;
+  --secondaryColorBody: #e1dcd8;
+  
+--primarySocialIconBg:#ffc7ff;
+    --primaryAlternateBg:#ffe1ff;--secondarySocialIconBg:#cbc2bb;--tertiarySocialIconBg:#18634d;--quaternarySocialIconBg:#bcdbdb;--secondarycolorTextBody: #000000;
+  --secondaryColorLightTextBody: rgba(0, 0, 0, 0.5);
+  --secondaryColorXlightTextBody: rgba(0, 0, 0, 0.3);
+  --secondary_heading_color: #000000;
+  --tertiaryColorBody:#0e3a2d;
+  --tertiarycolorTextBody: #ffffff;
+  --tertiaryColorLightTextBody: rgba(255, 255, 255, 0.5);
+  --tertiaryColorXlightTextBody: rgba(255, 255, 255, 0.3);
+  --tertiary_heading_color: #ffffff;
+  --gradientColorBody: linear-gradient(262deg, rgba(255, 235, 231, 1), rgba(238, 238, 238, 1) 100%);
+  --quaternaryColorBody: #ddeded;
+  --quaternarycolorTextBody: #181818;
+  --quaternaryColorLightTextBody: rgba(24, 24, 24, 0.5);
+  --quaternaryColorXlightTextBody: rgba(24, 24, 24, 0.3);
+  --quaternary_heading_color: #181818;
+  --colorImageBg: #ddeded;
+  --colorImageBorder: #eeeeee;
+  --productImageBorder:0;
+  --articleImageBorder:0;
+  --collectionImageBorder:0;
+  --colorTextSavings: #E22120;
+  --colorBgSavings: #ffd1d1;
+  --heading_color: #000000;
+  --heading_base_size: 1.0;
+  --heading_spacing: -0.025em;
+  --heading_line_height: 1.2;
+  --base_spacing: 0.0em;
+  --base_line_height: 1.8;
+  --text_base_size: 1.0;
+  --buttonRadius: 6px;
+  --productGridRadius: 20px;
+  --headingTextTransform:;
+  --buttonFontFamily: var(--font-family);
+  --variantFontFamily: var(--font-family);
+  --filtersHeadingFontFamily: var(--font-family);
+  --priceFontFamily: var(--font-family);
+  --tabHeadingFontFamily: var(--font-family);
+  --tabHeadingTextTransform:;
+  --navigationFontFamily: var(--font-family);
+  --navigationTextTransform:;
+  --variantTextTransform:uppercase;
+  --xsmallText:calc(var(--text_base_size) * 10px);
+  --smallText: calc(var(--text_base_size) * 12px);
+  --text: calc(var(--text_base_size) * 14px);
+  --mediumText: calc(var(--text_base_size) * 16px);
+  --largeText: calc(var(--text_base_size) * 18px);
+  --xlargeText:  calc(var(--text_base_size) * 20px);
+  --buttonAnimationDirection:translateX(-100%);
+}
+@media (min-width:1025px) {
+  .button:before,
+  .pdp-action-container button.shopify-payment-button__button--hidden:before,
+  .pdp-action-container button.shopify-payment-button__button:before,
+  .tertiary-button:before {
+      content: "";
+      position: absolute;top:0;
+        right:0;
+        width:0;
+        height:100%;z-index: -1;
+      transition: 0.6s ease-in-out;
+  }
+  .button:hover:before,
+  .pdp-action-container button.shopify-payment-button__button--hidden:hover:before,
+  .pdp-action-container button.shopify-payment-button__button:hover:before,
+  .secondary-button:hover:before {right:auto;
+      left:0;
+      width:100%;}
+}
