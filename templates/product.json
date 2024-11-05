@@ -9,11 +9,11 @@
  */
 {
   "order": [
+    "17308077179db45856",
     "main-product",
     "image_with_text_tAXXbQ",
     "product_recommendations",
-    "166133727946ffaeaa",
-    "17308077179db45856"
+    "166133727946ffaeaa"
   ],
   "sections": {
     "main-product": {
@@ -259,18 +259,6 @@
     "17308077179db45856": {
       "type": "apps",
       "blocks": {
-        "zepto_product_personalizer_product_personalizer_page_XKjRMB": {
-          "type": "shopify://apps/zepto-product-personalizer/blocks/product_personalizer_page/7411210d-7b32-4c09-9455-e129e3be4729",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
-        "zakeke_product_customiser_2d3d_zakeke_configurator_TVFVrX": {
-          "type": "shopify://apps/zakeke-product-customiser-2d3d/blocks/zakeke-configurator/40f7d63b-2e60-4d29-a347-f3c5c69e4428",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "zakeke_product_customiser_2d3d_zakeke_customizer_pBLUfC": {
           "type": "shopify://apps/zakeke-product-customiser-2d3d/blocks/zakeke-customizer/40f7d63b-2e60-4d29-a347-f3c5c69e4428",
           "settings": {
@@ -279,8 +267,6 @@
         }
       },
       "block_order": [
-        "zepto_product_personalizer_product_personalizer_page_XKjRMB",
-        "zakeke_product_customiser_2d3d_zakeke_configurator_TVFVrX",
         "zakeke_product_customiser_2d3d_zakeke_customizer_pBLUfC"
       ],
       "settings": {
