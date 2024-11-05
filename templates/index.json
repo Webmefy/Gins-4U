@@ -1,1 +1,563 @@
-{"sections":{"slider_KxBWEX":{"type":"slider","blocks":{"slide_ajJ9PK":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Botella_gin_fondo_extendido.png","videofile":"","banner_subtitle":"","banner_title":"LA GINEBRA QUE NO ES PARA TODOS. ES PARA TI.","seo_heading":"h4","banner_desc":"En Gins 4U no seguimos las reglas. Creamos ginebras que se adaptan a tu estilo, a tu historia, y a lo que te hace único. Esto no es solo una ginebra, es una declaración. Si buscas algo más que lo común, estás en el lugar adecuado.","desktop_title_size":58,"mobile_title_size":30,"button_size":"small","mobile_button_size":"m-med","button_text":"SHOP","button_link":"shopify:\/\/collections\/all","button_text2":"","button_link2":"","button2_alternate":true,"desktop_content_position":"d-center-right","mobile_content_position":"m-center","title_color":"#000000","subtitle_color":"#000000","subtitle_bgcolor":"#000000","desc_color":"#000000","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"","overlay_opacity":0,"title_color_m":"#000000","subtitle_color_m":"#000000","subtitle_bgcolor_m":"#dcdcdc","desc_color_m":"#000000","btn_bg_m":"#ffffff","btn_text_m":"#000000","btn_border_m":"#ffffff","overlay_color_m":"","overlay_opacity_m":50}}},"block_order":["slide_ajJ9PK"],"settings":{"nav_style":"dots","content_below_image":false,"rotate":false,"interval":3,"desktop_height":"650px","mobile_height":"550px","bgcolor":"primary"}},"3d97efdd-15f4-4fe7-8f2f-9b07b65f5e8d":{"type":"image-banner","disabled":true,"settings":{"enable_parallax":false,"section_visibility":"always","image":"shopify:\/\/shop_images\/jez-timms-jIejftgdU3w-unsplash.jpg","desktop_height":"550px","mobile_height":"500px","banner_title":"Tu satisfacción está garantizada","highlight_font":"body","seo_heading":"h2","desktop_title_size":48,"mobile_title_size":36,"banner_desc":"¿No es lo que esperabas? No te preocupes. Si tu ginebra personalizada no es exactamente lo que imaginabas, ajustamos el perfil de sabor en tu próxima compra sin costo adicional. Queremos que sea perfecta, como te mereces.","button_text":"CONOCE NUESTRA GARANTÍA","button_link":"shopify:\/\/collections\/all","button_size":"small","mobile_button_size":"m-small","content_position":"center-right","title_color":"#ffffff","desc_color":"#ffffff","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"#000000","overlay_opacity":15}},"image_with_text_D9GhBp":{"type":"image-with-text","blocks":{"heading_QzUqhq":{"type":"heading","settings":{"heading":"Ginebras Premium de Uvas, creadas para quienes saben lo que quieren.","highlight_font":"body","heading_size":"h2","seo_heading":"h2"}},"text_dRVBfp":{"type":"text","settings":{"content":"<p>Hecha con uvas exclusivas del Valle de Valais, cada botella de nuestra ginebra premium es una edición limitada. Si buscas algo que solo unos pocos podrán probar, nuestras ginebras premium son para ti. Estas ginebras capturan la esencia de cada añada, y cada lote es único. Pero date prisa, cuando se acaban, se acaban.<\/p>"}},"button_W6fPfj":{"type":"button","settings":{"btn_text":"explora las ginebras premium","btn_link":"shopify:\/\/pages\/historia-de-gins-4u","button_size":"med","mobile_button_size":"m-med"}}},"block_order":["heading_QzUqhq","text_dRVBfp","button_W6fPfj"],"settings":{"enable_fullwidth":false,"enable_top_border":false,"enable_bottom_border":false,"border_style":"solid","image":"shopify:\/\/shop_images\/Imagen-Home-UVA.jpg","image_shadow":true,"enable_image_animation":true,"image_alignment":"left","image_height":"aspect","show_icon_on_image":false,"icon":"snail","left_to_right":50,"top_to_bottom":50,"mobile_left_to_right":50,"mobile_top_to_bottom":50,"icon_animated_color":"#000000","content_position":"center","bgcolor":"primary","image_shadow_color":"#dddddd","section_visibility":"always","top_space_desktop":60,"bottom_space_desktop":30,"top_space_mobile":30,"bottom_space_mobile":30}},"images_grid_iekMyK":{"type":"images-grid","blocks":{"image_KXc8Yn":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/66.png"}},"image_F6PUNd":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/11.png"}},"image_rbhqiN":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/32.png"}}},"block_order":["image_KXc8Yn","image_F6PUNd","image_rbhqiN"],"settings":{"content_position":"left","image_height":"130","heading":"TU GINEBRA, A TU MANERA.","highlight_font":"body","seo_heading":"h2","heading_size":"h2","description":"<p>¿Te imaginas una ginebra hecha solo para ti? Aquí no eliges lo que ya está hecho, aquí lo creas tú. Después de experimentar nuestras ginebras premium, te ofrecemos la posibilidad de personalizar cada aspecto: desde los botánicos hasta la etiqueta. Haz que cada botella hable de ti. Tu ginebra, tus reglas. ¿Te atreves?<\/p>","btn_as_link":false,"btn_text":"Descubre más sobre la ginebra personalizada","btn_link":"shopify:\/\/pages\/cuestionario","bgcolor":"primary","section_visibility":"always","top_space_desktop":30,"bottom_space_desktop":0,"top_space_mobile":30,"bottom_space_mobile":30}},"text_with_icons_EgUfDy":{"type":"text-with-icons","blocks":{"column_VK3dic":{"type":"column","settings":{"icon":"chat","heading":"Accede al cuestionario","seo_heading":"h2","size":"text-medium","subtext":""}},"column_ACGcH4":{"type":"column","settings":{"icon":"eye","heading":"Elige tu botella","seo_heading":"h2","size":"text-medium","subtext":""}},"column_zPC6xd":{"type":"column","settings":{"icon":"heart","heading":"Escribe tu mensaje","seo_heading":"h2","size":"text-medium","subtext":""}},"column_gAJtRm":{"type":"column","settings":{"icon":"gift","heading":"Recibe tu botella personalizada","seo_heading":"h2","size":"text-medium","subtext":""}}},"block_order":["column_VK3dic","column_ACGcH4","column_zPC6xd","column_gAJtRm"],"settings":{"container_width":false,"enable_top_border":false,"enable_bottom_border":false,"section_border_style":"solid","column_background":false,"mobile_column_count":"2","alignment":"left","icon_content_space_desktop":15,"icon_content_space_mobile":15,"enable_border":false,"border_style":"dashed","column_radius_desktop":10,"column_radius_mobile":10,"icon_background":false,"icon_position":"left","bgcolor":"primary","column_background_color":"","icon_color":"#b8860b","icon_background_color":"","border_color":"#000000","section_visibility":"always","top_space_desktop":20,"bottom_space_desktop":20,"top_space_mobile":20,"bottom_space_mobile":20}},"slider_tTBmam":{"type":"slider","blocks":{"slide_BWxPF9":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Botella.jpg","videofile":"","banner_subtitle":"","banner_title":"La historia detrás de GINS 4U","seo_heading":"h2","banner_desc":"Larissa Kuonen y Pablo García no querían hacer otra ginebra más. Desde el Valle de Valais y con una mirada innovadora, fusionaron lo mejor de la tradición y la tecnología para crear ginebras que redefinen lo que significa lujo. Larissa Kuonen, una enóloga galardonada con más de 300 medallas de oro, ha sido reconocida como la creadora del Mejor Cabernet Sauvignon del Mundo y ha recibido el título de Mejor Vino Suizo en varias ocasiones. Su experiencia y pasión por la excelencia aseguran que cada botella de Gins 4U no solo sea especial, sino que esté respaldada por una autoridad indiscutible en el mundo del vino.","desktop_title_size":70,"mobile_title_size":36,"button_size":"large","mobile_button_size":"m-med","button_text":"CONOCE A LOS FUNDADORES DE GINS 4U","button_link":"shopify:\/\/collections\/all","button_text2":"","button_link2":"","button2_alternate":true,"desktop_content_position":"d-center","mobile_content_position":"m-center","title_color":"#000000","subtitle_color":"#000000","subtitle_bgcolor":"#DCDCDC","desc_color":"#000000","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"","overlay_opacity":50,"title_color_m":"#ffffff","subtitle_color_m":"#000000","subtitle_bgcolor_m":"#DCDCDC","desc_color_m":"#ffffff","btn_bg_m":"#ffffff","btn_text_m":"#000000","btn_border_m":"#ffffff","overlay_color_m":"","overlay_opacity_m":50}},"slide_a3fP8F":{"type":"slide","settings":{"videofile":"","banner_subtitle":"Banner Sub Heading Here","banner_title":"Banner Heading Here","seo_heading":"h2","banner_desc":"Banner Description Here","desktop_title_size":70,"mobile_title_size":36,"button_size":"large","mobile_button_size":"m-med","button_text":"Shop Now","button_link":"shopify:\/\/collections\/all","button_text2":"","button_link2":"","button2_alternate":true,"desktop_content_position":"d-center","mobile_content_position":"m-center","title_color":"#000000","subtitle_color":"#000000","subtitle_bgcolor":"#DCDCDC","desc_color":"#000000","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"","overlay_opacity":50,"title_color_m":"#ffffff","subtitle_color_m":"#000000","subtitle_bgcolor_m":"#DCDCDC","desc_color_m":"#ffffff","btn_bg_m":"#ffffff","btn_text_m":"#000000","btn_border_m":"#ffffff","overlay_color_m":"","overlay_opacity_m":50}},"slide_xtrWUT":{"type":"slide","settings":{"videofile":"","banner_subtitle":"Banner Sub Heading Here","banner_title":"Banner Heading Here","seo_heading":"h2","banner_desc":"Banner Description Here","desktop_title_size":70,"mobile_title_size":36,"button_size":"large","mobile_button_size":"m-med","button_text":"Shop Now","button_link":"shopify:\/\/collections\/all","button_text2":"","button_link2":"","button2_alternate":true,"desktop_content_position":"d-center","mobile_content_position":"m-center","title_color":"#000000","subtitle_color":"#000000","subtitle_bgcolor":"#DCDCDC","desc_color":"#000000","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"","overlay_opacity":50,"title_color_m":"#ffffff","subtitle_color_m":"#000000","subtitle_bgcolor_m":"#DCDCDC","desc_color_m":"#ffffff","btn_bg_m":"#ffffff","btn_text_m":"#000000","btn_border_m":"#ffffff","overlay_color_m":"","overlay_opacity_m":50}},"slide_4JtQrq":{"type":"slide","settings":{"videofile":"","banner_subtitle":"Banner Sub Heading Here","banner_title":"Banner Heading Here","seo_heading":"h2","banner_desc":"Banner Description Here","desktop_title_size":70,"mobile_title_size":36,"button_size":"large","mobile_button_size":"m-med","button_text":"Shop Now","button_link":"shopify:\/\/collections\/all","button_text2":"","button_link2":"","button2_alternate":true,"desktop_content_position":"d-center","mobile_content_position":"m-center","title_color":"#000000","subtitle_color":"#000000","subtitle_bgcolor":"#DCDCDC","desc_color":"#000000","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"","overlay_opacity":50,"title_color_m":"#ffffff","subtitle_color_m":"#000000","subtitle_bgcolor_m":"#DCDCDC","desc_color_m":"#ffffff","btn_bg_m":"#ffffff","btn_text_m":"#000000","btn_border_m":"#ffffff","overlay_color_m":"","overlay_opacity_m":50}}},"block_order":["slide_BWxPF9","slide_a3fP8F","slide_xtrWUT","slide_4JtQrq"],"settings":{"nav_style":"dots","content_below_image":false,"rotate":false,"interval":5,"desktop_height":"750px","mobile_height":"550px","bgcolor":"primary"}},"rich_text_hqmLdJ":{"type":"rich-text","blocks":{"richtext_QhUfEJ":{"type":"richtext","settings":{"heading":"Innovación al servicio del sabor","highlight_font":"body","seo_heading":"h2","size":"h1","content":""}}},"block_order":["richtext_QhUfEJ"],"settings":{"content_width":"container sm-container","content_alignment":"center","bgcolor":"primary","section_visibility":"always","top_space_desktop":50,"bottom_space_desktop":0,"top_space_mobile":30,"bottom_space_mobile":30}},"collage_8WGA7P":{"type":"collage","blocks":{"image_wgYiqX":{"type":"image","settings":{"image_width":"col-md-6","image":"shopify:\/\/shop_images\/19.png","heading":"","seo_heading":"h2","enable_text_shadow":false,"subheading":"","link":"","btn_text":"","outline_button":false,"heading_size":"h2","button_size":"med","content_width":"small","heading_size_m":"h3","button_size_m":"m-med","content_width_m":"small","overlayopacity":0,"desktop_content_position":"d-center","mobile_content_position":"m-bottom-center","overlaycolor":"#000000","textcolor":"#000000","text_shadow_color":"#000000","button_text_color":"#ffffff","button_bg_color":"#000000","button_border_color":"#000000"}},"image_JQTXEt":{"type":"image","settings":{"image_width":"col-md-6","image":"shopify:\/\/shop_images\/Rotovap-destilacion.png","mobile_image":"shopify:\/\/shop_images\/19.png","heading":"","seo_heading":"h2","enable_text_shadow":false,"subheading":"","link":"","btn_text":"","outline_button":false,"heading_size":"h2","button_size":"xsmall","content_width":"medium","heading_size_m":"h2","button_size_m":"m-xsmall","content_width_m":"medium","overlayopacity":0,"desktop_content_position":"d-center","mobile_content_position":"m-center","overlaycolor":"#000000","textcolor":"#000000","text_shadow_color":"#000000","button_text_color":"#ffffff","button_bg_color":"#000000","button_border_color":"#000000"}}},"block_order":["image_wgYiqX","image_JQTXEt"],"settings":{"enable_fullwidth":false,"enable_swipe":false,"image_layout":"sharp","enable_image_animation":true,"enable_hover_effect":true,"image_radius_desktop":10,"image_radius_mobile":10,"heading_size":"h2","button_size":"xsmall","space_in_images":true,"image_spacing_desktop":10,"image_spacing_mobile":10,"bgcolor":"primary","section_visibility":"always","top_space_desktop":15,"bottom_space_desktop":40,"top_space_mobile":20,"bottom_space_mobile":20}},"rich_text_ggtbxX":{"type":"rich-text","blocks":{"richtext_mMb3kt":{"type":"richtext","settings":{"heading":"¿Qué hace que nuestras ginebras sean diferentes?","highlight_font":"body","seo_heading":"h2","size":"h1","content":"<p>Desde la maceración ultrasónica hasta la destilación en frío, usamos técnicas de vanguardia para asegurarnos de que cada botella sea única. Cada paso en el proceso está pensado para llevar la ginebra a un nivel extraordinario.<\/p>"}}},"block_order":["richtext_mMb3kt"],"settings":{"content_width":"container sm-container","content_alignment":"center","bgcolor":"primary","section_visibility":"always","top_space_desktop":50,"bottom_space_desktop":0,"top_space_mobile":30,"bottom_space_mobile":30}},"rich_text_kVJ73z":{"type":"rich-text","blocks":{"richtext_iM846D":{"type":"richtext","settings":{"heading":"Para ti o para un ser querido.","highlight_font":"body","seo_heading":"h2","size":"h1","content":"<p>¿Buscas una ginebra personalizada que refleje quién eres o un regalo exclusivo para un amante del lujo? Gins 4U tiene la opción perfecta para cada ocasión.<\/p>"}}},"block_order":["richtext_iM846D"],"settings":{"content_width":"container sm-container","content_alignment":"center","bgcolor":"primary","section_visibility":"always","top_space_desktop":50,"bottom_space_desktop":0,"top_space_mobile":30,"bottom_space_mobile":30}},"collage_UrqWqY":{"type":"collage","blocks":{"image_7cJCGM":{"type":"image","settings":{"image_width":"col-md-6","image":"shopify:\/\/shop_images\/76.png","mobile_image":"shopify:\/\/shop_images\/76.png","heading":"PARA MI","seo_heading":"h2","enable_text_shadow":true,"subheading":"Una ginebra que habla de ti","link":"shopify:\/\/products\/producto-test","btn_text":"ELEGIR","outline_button":true,"heading_size":"h2","button_size":"xsmall","content_width":"medium","heading_size_m":"h2","button_size_m":"m-med","content_width_m":"large","overlayopacity":0,"desktop_content_position":"d-center","mobile_content_position":"m-center","overlaycolor":"#000000","textcolor":"#ffffff","text_shadow_color":"#000000","button_text_color":"#ffffff","button_bg_color":"#000000","button_border_color":"#000000"}},"image_EHrGeD":{"type":"image","settings":{"image_width":"col-md-6","image":"shopify:\/\/shop_images\/23.png","mobile_image":"shopify:\/\/shop_images\/23.png","heading":"PARA UN SER QUERIDO","seo_heading":"h1","enable_text_shadow":true,"subheading":"El regalo más exclusivo","link":"shopify:\/\/products\/producto-test","btn_text":"ELEGIR","outline_button":true,"heading_size":"h2","button_size":"xsmall","content_width":"medium","heading_size_m":"h2","button_size_m":"m-med","content_width_m":"large","overlayopacity":50,"desktop_content_position":"d-center","mobile_content_position":"m-center","overlaycolor":"#000000","textcolor":"#fffaff","text_shadow_color":"#000000","button_text_color":"#ffffff","button_bg_color":"#000000","button_border_color":"#000000"}}},"block_order":["image_7cJCGM","image_EHrGeD"],"settings":{"enable_fullwidth":true,"enable_swipe":true,"image_layout":"sharp","enable_image_animation":true,"enable_hover_effect":false,"image_radius_desktop":10,"image_radius_mobile":10,"heading_size":"h2","button_size":"xsmall","space_in_images":true,"image_spacing_desktop":10,"image_spacing_mobile":10,"bgcolor":"primary","section_visibility":"always","top_space_desktop":50,"bottom_space_desktop":50,"top_space_mobile":20,"bottom_space_mobile":20}},"testimonials_8rzweM":{"type":"testimonials","blocks":{"quote_DphfDh":{"type":"quote","settings":{"rating":5,"message":"\"La ginebra personalizada fue como si hubieran leído mi mente. Perfectamente ajustada a mis gustos. No hay nada igual en el mercado.\"","author":"Javier P.","author_city":"","video_text":""}}},"block_order":["quote_DphfDh"],"settings":{"heading":"Lo que dicen nuestros clientes","highlight_font":"body","seo_heading":"h2","heading_size":"h2","slider_style":"style2","column_count":"column1","nav_style":"arrow","divider_top":false,"divider_bottom":false,"bgcolor":"primary","section_visibility":"always","top_space_desktop":60,"bottom_space_desktop":60,"top_space_mobile":30,"bottom_space_mobile":30}},"image_with_text_GAmx7n":{"type":"image-with-text","blocks":{"heading_ebJ7jP":{"type":"heading","settings":{"heading":"Tu satisfacción está garantizada","highlight_font":"body","heading_size":"h2","seo_heading":"h2"}},"text_WKeK3Q":{"type":"text","settings":{"content":"<p>¿No es lo que esperabas? No te preocupes. Si tu ginebra personalizada no es exactamente lo que imaginabas, ajustamos el perfil de sabor en tu próxima compra sin costo adicional. Queremos que sea perfecta, como te mereces.<\/p>"}},"button_9jFX77":{"type":"button","settings":{"btn_text":"CONOCE NUESTRA GARANTÍA","btn_link":"shopify:\/\/pages\/garantia-de-satisfaccion","button_size":"small","mobile_button_size":"m-med"}}},"block_order":["heading_ebJ7jP","text_WKeK3Q","button_9jFX77"],"settings":{"enable_fullwidth":false,"enable_top_border":false,"enable_bottom_border":false,"border_style":"solid","image":"shopify:\/\/shop_images\/68.png","image_shadow":false,"enable_image_animation":true,"image_alignment":"left","image_height":"square","show_icon_on_image":false,"icon":"star","left_to_right":50,"top_to_bottom":50,"mobile_left_to_right":50,"mobile_top_to_bottom":50,"icon_animated_color":"#000000","content_position":"center","bgcolor":"primary","image_shadow_color":"#dddddd","section_visibility":"always","top_space_desktop":60,"bottom_space_desktop":30,"top_space_mobile":30,"bottom_space_mobile":30}}},"order":["slider_KxBWEX","3d97efdd-15f4-4fe7-8f2f-9b07b65f5e8d","image_with_text_D9GhBp","images_grid_iekMyK","text_with_icons_EgUfDy","slider_tTBmam","rich_text_hqmLdJ","collage_8WGA7P","rich_text_ggtbxX","rich_text_kVJ73z","collage_UrqWqY","testimonials_8rzweM","image_with_text_GAmx7n"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "slider_KxBWEX",
+    "3d97efdd-15f4-4fe7-8f2f-9b07b65f5e8d",
+    "rich_text_ggtbxX",
+    "collage_8WGA7P",
+    "rich_text_hqmLdJ",
+    "multi_image_with_text_jFXz8E",
+    "images_grid_iekMyK",
+    "testimonials_8rzweM",
+    "image_banner_xVhe4D"
+  ],
+  "sections": {
+    "3d97efdd-15f4-4fe7-8f2f-9b07b65f5e8d": {
+      "settings": {
+        "banner_desc": "¿No es lo que esperabas? No te preocupes. Si tu ginebra personalizada no es exactamente lo que imaginabas, ajustamos el perfil de sabor en tu próxima compra sin costo adicional. Queremos que sea perfecta, como te mereces.",
+        "banner_title": "Tu satisfacción está garantizada",
+        "btn_bg": "#000000",
+        "btn_border": "#000000",
+        "btn_text": "#ffffff",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_size": "small",
+        "button_text": "CONOCE NUESTRA GARANTÍA",
+        "content_position": "center-right",
+        "desc_color": "#ffffff",
+        "desktop_height": "550px",
+        "desktop_title_size": 48,
+        "enable_parallax": false,
+        "highlight_font": "body",
+        "image": "shopify:\/\/shop_images\/jez-timms-jIejftgdU3w-unsplash.jpg",
+        "mobile_button_size": "m-small",
+        "mobile_height": "500px",
+        "mobile_title_size": 36,
+        "overlay_color": "#000000",
+        "overlay_opacity": 15,
+        "section_visibility": "always",
+        "seo_heading": "h2",
+        "title_color": "#ffffff"
+      },
+      "type": "image-banner"
+    },
+    "collage_8WGA7P": {
+      "block_order": [
+        "image_wgYiqX",
+        "image_4D7RBf"
+      ],
+      "blocks": {
+        "image_4D7RBf": {
+          "settings": {
+            "btn_text": "",
+            "button_bg_color": "#000000",
+            "button_border_color": "#000000",
+            "button_size": "xsmall",
+            "button_size_m": "m-xsmall",
+            "button_text_color": "#ffffff",
+            "content_width": "medium",
+            "content_width_m": "medium",
+            "desktop_content_position": "d-center",
+            "enable_text_shadow": false,
+            "heading": "Heading",
+            "heading_size": "h2",
+            "heading_size_m": "h2",
+            "image_width": "col-md-6",
+            "link": "",
+            "mobile_content_position": "m-center",
+            "outline_button": false,
+            "overlaycolor": "#000000",
+            "overlayopacity": 0,
+            "seo_heading": "h2",
+            "subheading": "Sub heading",
+            "text_shadow_color": "#000000",
+            "textcolor": "#000000"
+          },
+          "type": "image"
+        },
+        "image_wgYiqX": {
+          "settings": {
+            "btn_text": "",
+            "button_bg_color": "#000000",
+            "button_border_color": "#000000",
+            "button_size": "med",
+            "button_size_m": "m-med",
+            "button_text_color": "#ffffff",
+            "content_width": "small",
+            "content_width_m": "small",
+            "desktop_content_position": "d-center",
+            "enable_text_shadow": false,
+            "heading": "Heading",
+            "heading_size": "h2",
+            "heading_size_m": "h3",
+            "image_width": "col-md-6",
+            "link": "",
+            "mobile_content_position": "m-bottom-center",
+            "outline_button": false,
+            "overlaycolor": "#000000",
+            "overlayopacity": 0,
+            "seo_heading": "h2",
+            "subheading": "Sub heading",
+            "text_shadow_color": "#000000",
+            "textcolor": "#000000"
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "bgcolor": "primary",
+        "bottom_space_desktop": 40,
+        "bottom_space_mobile": 20,
+        "button_size": "xsmall",
+        "enable_fullwidth": true,
+        "enable_hover_effect": false,
+        "enable_image_animation": true,
+        "enable_swipe": false,
+        "heading_size": "h2",
+        "image_layout": "sharp",
+        "image_radius_desktop": 10,
+        "image_radius_mobile": 10,
+        "image_spacing_desktop": 10,
+        "image_spacing_mobile": 10,
+        "section_visibility": "always",
+        "space_in_images": true,
+        "top_space_desktop": 15,
+        "top_space_mobile": 20
+      },
+      "type": "collage"
+    },
+    "image_banner_xVhe4D": {
+      "settings": {
+        "banner_desc": "Banner Description Here",
+        "banner_title": "Banner Heading Here",
+        "btn_bg": "#000000",
+        "btn_border": "#000000",
+        "btn_text": "#ffffff",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_size": "small",
+        "button_text": "Shop Now",
+        "content_position": "center-left",
+        "desc_color": "#000000",
+        "desktop_height": "550px",
+        "desktop_title_size": 70,
+        "enable_parallax": true,
+        "highlight_font": "body",
+        "image": "shopify:\/\/shop_images\/priscilla-du-preez-BjhUu6BpUZA-unsplash.jpg",
+        "mobile_button_size": "m-small",
+        "mobile_height": "500px",
+        "mobile_title_size": 36,
+        "overlay_color": "",
+        "overlay_opacity": 50,
+        "section_visibility": "always",
+        "seo_heading": "h2",
+        "title_color": "#000000"
+      },
+      "type": "image-banner"
+    },
+    "images_grid_iekMyK": {
+      "block_order": [
+        "image_KXc8Yn",
+        "image_F6PUNd",
+        "image_rbhqiN"
+      ],
+      "blocks": {
+        "image_F6PUNd": {
+          "settings": {
+          },
+          "type": "image"
+        },
+        "image_KXc8Yn": {
+          "settings": {
+          },
+          "type": "image"
+        },
+        "image_rbhqiN": {
+          "settings": {
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "bgcolor": "primary",
+        "bottom_space_desktop": 0,
+        "bottom_space_mobile": 30,
+        "btn_as_link": false,
+        "btn_link": "https:\/\/webmefy.com\/",
+        "btn_text": "DESCUBRE",
+        "content_position": "left",
+        "description": "<p>¿Te imaginas una ginebra hecha solo para ti? Aquí no eliges lo que ya está hecho, aquí lo creas tú. Después de experimentar nuestras ginebras premium, te ofrecemos la posibilidad de personalizar cada aspecto: desde los botánicos hasta la etiqueta. Haz que cada botella hable de ti. Tu ginebra, tus reglas. ¿Te atreves?<\/p>",
+        "heading": "TU GINEBRA, A TU MANERA.",
+        "heading_size": "h2",
+        "highlight_font": "body",
+        "image_height": "130",
+        "section_visibility": "always",
+        "seo_heading": "h2",
+        "top_space_desktop": 30,
+        "top_space_mobile": 30
+      },
+      "type": "images-grid"
+    },
+    "multi_image_with_text_jFXz8E": {
+      "block_order": [
+        "heading_Ynw3e7",
+        "image_7m3q4Q",
+        "text_T6M8Qb",
+        "button_cqg8Pe"
+      ],
+      "blocks": {
+        "button_cqg8Pe": {
+          "settings": {
+            "btn_link": "https:\/\/webmefy.com\/",
+            "btn_text": "CONOCE NUESTRO PROCESO DE PRODUCCIÓN",
+            "button_size": "small",
+            "mobile_button_size": "m-med"
+          },
+          "type": "button"
+        },
+        "heading_Ynw3e7": {
+          "settings": {
+            "heading": "INNOVACIÓN AL SERVICIO DEL SABOR",
+            "heading_size": "h4",
+            "highlight_font": "body",
+            "seo_heading": "h4"
+          },
+          "type": "heading"
+        },
+        "image_7m3q4Q": {
+          "settings": {
+            "bgcolor": "secondary",
+            "first_image": "shopify:\/\/shop_images\/world_10.png",
+            "image_shadow": true,
+            "image_shadow_color": "#26413c",
+            "second_image": "shopify:\/\/shop_images\/lafnetscha_grapes.webp"
+          },
+          "type": "image"
+        },
+        "text_T6M8Qb": {
+          "settings": {
+            "content": "<p>¿Qué hace que nuestras ginebras sean diferentes? Desde la maceración ultrasónica hasta la destilación en frío, usamos técnicas de vanguardia para asegurarnos de que cada botella sea única. Cada paso en el proceso está pensado para llevar la ginebra a un nivel extraordinario.<\/p>"
+          },
+          "type": "text"
+        }
+      },
+      "settings": {
+        "bgcolor": "primary",
+        "bottom_space_desktop": 30,
+        "bottom_space_mobile": 30,
+        "section_visibility": "always",
+        "text_alignment": "center",
+        "top_space_desktop": 35,
+        "top_space_mobile": 30
+      },
+      "type": "multi-image-with-text"
+    },
+    "rich_text_ggtbxX": {
+      "block_order": [
+        "richtext_mMb3kt"
+      ],
+      "blocks": {
+        "richtext_mMb3kt": {
+          "settings": {
+            "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.<\/p>",
+            "heading": "Rich text",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "size": "h1"
+          },
+          "type": "richtext"
+        }
+      },
+      "settings": {
+        "bgcolor": "primary",
+        "bottom_space_desktop": 0,
+        "bottom_space_mobile": 30,
+        "content_alignment": "center",
+        "content_width": "container sm-container",
+        "section_visibility": "always",
+        "top_space_desktop": 50,
+        "top_space_mobile": 30
+      },
+      "type": "rich-text"
+    },
+    "rich_text_hqmLdJ": {
+      "block_order": [
+        "richtext_QhUfEJ"
+      ],
+      "blocks": {
+        "richtext_QhUfEJ": {
+          "settings": {
+            "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.<\/p>",
+            "heading": "Rich text",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "size": "h1"
+          },
+          "type": "richtext"
+        }
+      },
+      "settings": {
+        "bgcolor": "primary",
+        "bottom_space_desktop": 0,
+        "bottom_space_mobile": 30,
+        "content_alignment": "center",
+        "content_width": "container sm-container",
+        "section_visibility": "always",
+        "top_space_desktop": 50,
+        "top_space_mobile": 30
+      },
+      "type": "rich-text"
+    },
+    "slider_KxBWEX": {
+      "block_order": [
+        "slide_ajJ9PK",
+        "slide_KVTbby",
+        "slide_bxRJfj",
+        "slide_iNyim4"
+      ],
+      "blocks": {
+        "slide_KVTbby": {
+          "settings": {
+            "banner_desc": "Banner Description Here",
+            "banner_subtitle": "Banner Sub Heading Here",
+            "banner_title": "Banner Heading Here",
+            "btn_bg": "#000000",
+            "btn_bg_m": "#ffffff",
+            "btn_border": "#000000",
+            "btn_border_m": "#ffffff",
+            "btn_text": "#ffffff",
+            "btn_text_m": "#000000",
+            "button2_alternate": true,
+            "button_link": "shopify:\/\/collections\/all",
+            "button_link2": "",
+            "button_size": "large",
+            "button_text": "Shop Now",
+            "button_text2": "",
+            "desc_color": "#000000",
+            "desc_color_m": "#ffffff",
+            "desktop_content_position": "d-center",
+            "desktop_title_size": 70,
+            "mobile_button_size": "m-med",
+            "mobile_content_position": "m-center",
+            "mobile_title_size": 36,
+            "overlay_color": "",
+            "overlay_color_m": "",
+            "overlay_opacity": 50,
+            "overlay_opacity_m": 50,
+            "seo_heading": "h2",
+            "subtitle_bgcolor": "#dcdcdc",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "subtitle_color": "#000000",
+            "subtitle_color_m": "#000000",
+            "title_color": "#000000",
+            "title_color_m": "#ffffff",
+            "videofile": ""
+          },
+          "type": "slide"
+        },
+        "slide_ajJ9PK": {
+          "settings": {
+            "banner_desc": "En Gins 4U no seguimos las reglas. Creamos ginebras que se adaptan a tu estilo, a tu historia, y a lo que te hace único. Esto no es solo una ginebra, es una declaración. Si buscas algo más que lo común, estás en el lugar adecuado.",
+            "banner_subtitle": "",
+            "banner_title": "LA GINEBRA QUE NO ES PARA TODOS. ES PARA TI.",
+            "btn_bg": "#000000",
+            "btn_bg_m": "#ffffff",
+            "btn_border": "#000000",
+            "btn_border_m": "#ffffff",
+            "btn_text": "#ffffff",
+            "btn_text_m": "#000000",
+            "button2_alternate": true,
+            "button_link": "shopify:\/\/collections\/all",
+            "button_link2": "",
+            "button_size": "small",
+            "button_text": "SHOP",
+            "button_text2": "",
+            "desc_color": "#000000",
+            "desc_color_m": "#ffffff",
+            "desktop_content_position": "d-center-right",
+            "desktop_title_size": 50,
+            "image": "shopify:\/\/shop_images\/image_2.png",
+            "mobile_button_size": "m-med",
+            "mobile_content_position": "m-center",
+            "mobile_title_size": 36,
+            "overlay_color": "",
+            "overlay_color_m": "",
+            "overlay_opacity": 0,
+            "overlay_opacity_m": 50,
+            "seo_heading": "h3",
+            "subtitle_bgcolor": "#dcdcdc",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "subtitle_color": "#000000",
+            "subtitle_color_m": "#000000",
+            "title_color": "#000000",
+            "title_color_m": "#ffffff",
+            "videofile": ""
+          },
+          "type": "slide"
+        },
+        "slide_bxRJfj": {
+          "settings": {
+            "banner_desc": "Banner Description Here",
+            "banner_subtitle": "Banner Sub Heading Here",
+            "banner_title": "Banner Heading Here",
+            "btn_bg": "#000000",
+            "btn_bg_m": "#ffffff",
+            "btn_border": "#000000",
+            "btn_border_m": "#ffffff",
+            "btn_text": "#ffffff",
+            "btn_text_m": "#000000",
+            "button2_alternate": true,
+            "button_link": "shopify:\/\/collections\/all",
+            "button_link2": "",
+            "button_size": "large",
+            "button_text": "Shop Now",
+            "button_text2": "",
+            "desc_color": "#000000",
+            "desc_color_m": "#ffffff",
+            "desktop_content_position": "d-center",
+            "desktop_title_size": 70,
+            "mobile_button_size": "m-med",
+            "mobile_content_position": "m-center",
+            "mobile_title_size": 36,
+            "overlay_color": "",
+            "overlay_color_m": "",
+            "overlay_opacity": 50,
+            "overlay_opacity_m": 50,
+            "seo_heading": "h2",
+            "subtitle_bgcolor": "#dcdcdc",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "subtitle_color": "#000000",
+            "subtitle_color_m": "#000000",
+            "title_color": "#000000",
+            "title_color_m": "#ffffff",
+            "videofile": ""
+          },
+          "type": "slide"
+        },
+        "slide_iNyim4": {
+          "settings": {
+            "banner_desc": "Banner Description Here",
+            "banner_subtitle": "Banner Sub Heading Here",
+            "banner_title": "Banner Heading Here",
+            "btn_bg": "#000000",
+            "btn_bg_m": "#ffffff",
+            "btn_border": "#000000",
+            "btn_border_m": "#ffffff",
+            "btn_text": "#ffffff",
+            "btn_text_m": "#000000",
+            "button2_alternate": true,
+            "button_link": "shopify:\/\/collections\/all",
+            "button_link2": "",
+            "button_size": "large",
+            "button_text": "Shop Now",
+            "button_text2": "",
+            "desc_color": "#000000",
+            "desc_color_m": "#ffffff",
+            "desktop_content_position": "d-center",
+            "desktop_title_size": 70,
+            "mobile_button_size": "m-med",
+            "mobile_content_position": "m-center",
+            "mobile_title_size": 36,
+            "overlay_color": "",
+            "overlay_color_m": "",
+            "overlay_opacity": 50,
+            "overlay_opacity_m": 50,
+            "seo_heading": "h2",
+            "subtitle_bgcolor": "#dcdcdc",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "subtitle_color": "#000000",
+            "subtitle_color_m": "#000000",
+            "title_color": "#000000",
+            "title_color_m": "#ffffff",
+            "videofile": ""
+          },
+          "type": "slide"
+        }
+      },
+      "settings": {
+        "bgcolor": "primary",
+        "content_below_image": false,
+        "desktop_height": "650px",
+        "interval": 3,
+        "mobile_height": "550px",
+        "nav_style": "dots",
+        "rotate": false
+      },
+      "type": "slider"
+    },
+    "testimonials_8rzweM": {
+      "block_order": [
+        "quote_DphfDh",
+        "quote_rT46pe",
+        "quote_fKa3Ea",
+        "quote_6NyDPj"
+      ],
+      "blocks": {
+        "quote_6NyDPj": {
+          "settings": {
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "rating": 4,
+            "video_text": ""
+          },
+          "type": "quote"
+        },
+        "quote_DphfDh": {
+          "settings": {
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "rating": 4,
+            "video_text": ""
+          },
+          "type": "quote"
+        },
+        "quote_fKa3Ea": {
+          "settings": {
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "rating": 4,
+            "video_text": ""
+          },
+          "type": "quote"
+        },
+        "quote_rT46pe": {
+          "settings": {
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "rating": 4,
+            "video_text": ""
+          },
+          "type": "quote"
+        }
+      },
+      "settings": {
+        "bgcolor": "primary",
+        "bottom_space_desktop": 60,
+        "bottom_space_mobile": 30,
+        "column_count": "column1",
+        "divider_bottom": false,
+        "divider_top": false,
+        "heading": "Add testimonials heading here",
+        "heading_size": "h2",
+        "highlight_font": "body",
+        "nav_style": "arrow",
+        "section_visibility": "always",
+        "seo_heading": "h2",
+        "slider_style": "style2",
+        "top_space_desktop": 60,
+        "top_space_mobile": 30
+      },
+      "type": "testimonials"
+    }
+  }
+}
