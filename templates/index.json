@@ -752,6 +752,77 @@
         "bottom_space_mobile": 30
       }
     },
+    "social_media_gallery_ieXHep": {
+      "type": "social-media-gallery",
+      "blocks": {
+        "media_T6RDfe": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_63CGAk": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_wgUtJ7": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_BXMtxQ": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_jKFfCJ": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_KieG6A": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "media_T6RDfe",
+        "media_63CGAk",
+        "media_wgUtJ7",
+        "media_BXMtxQ",
+        "media_jKFfCJ",
+        "media_KieG6A"
+      ],
+      "settings": {
+        "heading": "Instagram",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "description": "",
+        "social_media_icon": "instagram",
+        "bgcolor": "primary",
+        "overlay_text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 50,
+        "section_visibility": "always",
+        "top_space_desktop": 50,
+        "bottom_space_desktop": 50,
+        "top_space_mobile": 25,
+        "bottom_space_mobile": 25
+      }
+    },
     "image_with_text_GAmx7n": {
       "type": "image-with-text",
       "blocks": {
@@ -826,6 +897,7 @@
     "rich_text_kVJ73z",
     "collage_UrqWqY",
     "testimonials_8rzweM",
+    "social_media_gallery_ieXHep",
     "image_with_text_GAmx7n"
   ]
 }
