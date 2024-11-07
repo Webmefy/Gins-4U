@@ -738,7 +738,7 @@
         "heading": "Lo que dicen nuestros clientes",
         "highlight_font": "body",
         "seo_heading": "h2",
-        "heading_size": "h2",
+        "heading_size": "h5",
         "slider_style": "style2",
         "column_count": "column1",
         "nav_style": "arrow",
@@ -746,8 +746,8 @@
         "divider_bottom": false,
         "bgcolor": "primary",
         "section_visibility": "always",
-        "top_space_desktop": 60,
-        "bottom_space_desktop": 60,
+        "top_space_desktop": 25,
+        "bottom_space_desktop": 25,
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
@@ -796,6 +796,48 @@
             "heading": "",
             "link": ""
           }
+        },
+        "media_w8LzXE": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_8MUBwT": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_kaakkC": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_XKjkaG": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_tYFHra": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
+        },
+        "media_48NFDn": {
+          "type": "media",
+          "settings": {
+            "heading": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -804,7 +846,13 @@
         "media_wgUtJ7",
         "media_BXMtxQ",
         "media_jKFfCJ",
-        "media_KieG6A"
+        "media_KieG6A",
+        "media_w8LzXE",
+        "media_8MUBwT",
+        "media_kaakkC",
+        "media_XKjkaG",
+        "media_tYFHra",
+        "media_48NFDn"
       ],
       "settings": {
         "heading": "Instagram",
