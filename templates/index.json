@@ -136,7 +136,7 @@
         "image": "shopify://shop_images/Imagen-Home-UVA.jpg",
         "image_shadow": true,
         "enable_image_animation": true,
-        "image_alignment": "left",
+        "image_alignment": "right",
         "image_height": "aspect",
         "show_icon_on_image": false,
         "icon": "snail",
@@ -183,7 +183,7 @@
         "image_rbhqiN"
       ],
       "settings": {
-        "content_position": "left",
+        "content_position": "right",
         "image_height": "130",
         "heading": "TU GINEBRA, A TU MANERA.",
         "highlight_font": "body",
