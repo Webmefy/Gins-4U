@@ -200,31 +200,31 @@
         "5f2a17c3-6834-4f30-ac33-dd871134b6c4": {
           "type": "column",
           "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
+            "icon": "chat",
+            "heading": "Accede al cuestionario",
             "seo_heading": "h2",
             "size": "text-medium",
-            "subtext": "Add subtext here"
+            "subtext": ""
           }
         },
         "1619ab47-2031-4339-961b-21ca08f7f33e": {
           "type": "column",
           "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
+            "icon": "eye",
+            "heading": "Elige tu botella",
             "seo_heading": "h2",
             "size": "text-medium",
-            "subtext": "Add subtext here"
+            "subtext": ""
           }
         },
         "f37730b5-14aa-462c-bbfe-db24fa287e5b": {
           "type": "column",
           "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
+            "icon": "heart",
+            "heading": "Escribe tu mensaje",
             "seo_heading": "h2",
             "size": "text-medium",
-            "subtext": "Add subtext here"
+            "subtext": ""
           }
         },
         "d192928f-441f-42d2-852c-5e1864672797": {
@@ -245,13 +245,13 @@
         "d192928f-441f-42d2-852c-5e1864672797"
       ],
       "settings": {
-        "container_width": false,
-        "enable_top_border": true,
-        "enable_bottom_border": false,
-        "section_border_style": "dashed",
+        "container_width": true,
+        "enable_top_border": false,
+        "enable_bottom_border": true,
+        "section_border_style": "solid",
         "column_background": false,
-        "mobile_column_count": "1",
-        "alignment": "center",
+        "mobile_column_count": "2",
+        "alignment": "left",
         "icon_content_space_desktop": 15,
         "icon_content_space_mobile": 15,
         "enable_border": false,
@@ -259,10 +259,10 @@
         "column_radius_desktop": 10,
         "column_radius_mobile": 10,
         "icon_background": false,
-        "icon_position": "top",
+        "icon_position": "left",
         "bgcolor": "primary",
         "column_background_color": "",
-        "icon_color": "#000000",
+        "icon_color": "#efb34c",
         "icon_background_color": "",
         "border_color": "#000000",
         "section_visibility": "always",
