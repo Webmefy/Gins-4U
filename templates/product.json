@@ -16,6 +16,26 @@
     "166133727946ffaeaa"
   ],
   "sections": {
+    "17308077179db45856": {
+      "type": "apps",
+      "blocks": {
+        "zakeke_product_customiser_2d3d_zakeke_customizer_pBLUfC": {
+          "type": "shopify://apps/zakeke-product-customiser-2d3d/blocks/zakeke-customizer/40f7d63b-2e60-4d29-a347-f3c5c69e4428",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "zakeke_product_customiser_2d3d_zakeke_customizer_pBLUfC"
+      ],
+      "settings": {
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
     "main-product": {
       "type": "main-product",
       "blocks": {
@@ -27,18 +47,15 @@
         },
         "c069e4ad-5908-400d-a0ad-e071aa04cf33": {
           "type": "review-star",
-          "settings": {
-          }
+          "settings": {}
         },
         "5540566c-63cd-4a90-b9b6-7707e45d7066": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "9db1533f-9baf-4eb6-869d-dd2b494b6990": {
           "type": "sku",
-          "settings": {
-          }
+          "settings": {}
         },
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68": {
           "type": "variant",
@@ -48,8 +65,7 @@
         },
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9": {
           "type": "quantity",
-          "settings": {
-          }
+          "settings": {}
         },
         "16819786-9d1e-449d-966d-08d21e1c91af": {
           "type": "button",
@@ -64,8 +80,7 @@
         },
         "e02bd487-7756-43fc-8ac6-54fa9a16ca85": {
           "type": "social-icons",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -135,6 +150,7 @@
         "icon_with_text_EGh6r8",
         "icon_with_text_apfYLr"
       ],
+      "disabled": true,
       "settings": {
         "enable_fullwidth": false,
         "enable_top_border": false,
@@ -252,26 +268,6 @@
         "section_visibility": "always",
         "top_space_desktop": 25,
         "bottom_space_desktop": 25,
-        "top_space_mobile": 30,
-        "bottom_space_mobile": 30
-      }
-    },
-    "17308077179db45856": {
-      "type": "apps",
-      "blocks": {
-        "zakeke_product_customiser_2d3d_zakeke_customizer_pBLUfC": {
-          "type": "shopify://apps/zakeke-product-customiser-2d3d/blocks/zakeke-customizer/40f7d63b-2e60-4d29-a347-f3c5c69e4428",
-          "settings": {
-            "product": "{{product}}"
-          }
-        }
-      },
-      "block_order": [
-        "zakeke_product_customiser_2d3d_zakeke_customizer_pBLUfC"
-      ],
-      "settings": {
-        "top_space_desktop": 30,
-        "bottom_space_desktop": 30,
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
