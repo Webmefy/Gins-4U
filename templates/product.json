@@ -230,11 +230,11 @@
         "d192928f-441f-42d2-852c-5e1864672797": {
           "type": "column",
           "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
+            "icon": "gift",
+            "heading": "Recibe tu botella personalizada",
             "seo_heading": "h2",
             "size": "text-medium",
-            "subtext": "Add subtext here"
+            "subtext": ""
           }
         }
       },
