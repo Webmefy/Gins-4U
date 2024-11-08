@@ -1,1 +1,139 @@
-{"sections":{"image_banner_ijEqT7":{"type":"image-banner","disabled":true,"settings":{"enable_parallax":true,"section_visibility":"always","image":"shopify:\/\/shop_images\/Botella_gin_fondo_extendido.png","desktop_height":"750px","mobile_height":"500px","banner_title":"Crea Tu Ginebra Personalizada","highlight_font":"body","seo_heading":"h2","desktop_title_size":70,"mobile_title_size":36,"banner_desc":"¡Bienvenido a Gins 4U! Aquí puedes crear una ginebra única y personalizada que se adapte perfectamente a tus gustos. Simplemente responde a las siguientes preguntas y nosotros haremos el resto. Al final, te recomendaremos una ginebra exclusiva, y podrás personalizar la botella y la etiqueta a tu gusto. ¡Comencemos!","button_text":"comenzar","button_link":"shopify:\/\/collections\/all","button_size":"large","mobile_button_size":"m-large","content_position":"center-center","title_color":"#000000","desc_color":"#000000","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"","overlay_opacity":50}},"slider_bbU34D":{"type":"slider","blocks":{"slide_bJgnaq":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Botella_gin_fondo_extendido.png","videofile":"","banner_subtitle":"","banner_title":"Crea Tu Ginebra Personalizada","seo_heading":"h2","banner_desc":"¡Bienvenido a Gins 4U! Aquí puedes crear una ginebra única y personalizada que se adapte perfectamente a tus gustos. Simplemente responde a las siguientes preguntas y nosotros haremos el resto. Al final, te recomendaremos una ginebra exclusiva, y podrás personalizar la botella y la etiqueta a tu gusto. ¡Comencemos!","desktop_title_size":70,"mobile_title_size":36,"button_size":"large","mobile_button_size":"m-med","button_text":"comenzar","button_link":"shopify:\/\/collections\/all","button_text2":"","button_link2":"","button2_alternate":true,"desktop_content_position":"d-center-right","mobile_content_position":"m-center","title_color":"#000000","subtitle_color":"#000000","subtitle_bgcolor":"#dcdcdc","desc_color":"#000000","btn_bg":"#000000","btn_text":"#ffffff","btn_border":"#000000","overlay_color":"","overlay_opacity":50,"title_color_m":"#ffffff","subtitle_color_m":"#000000","subtitle_bgcolor_m":"#dcdcdc","desc_color_m":"#ffffff","btn_bg_m":"#ffffff","btn_text_m":"#000000","btn_border_m":"#ffffff","overlay_color_m":"","overlay_opacity_m":50}}},"block_order":["slide_bJgnaq"],"settings":{"nav_style":"dots","content_below_image":false,"rotate":false,"interval":5,"desktop_height":"750px","mobile_height":"550px","bgcolor":"primary"}},"main-page":{"type":"main-page","disabled":true,"settings":{"seo_heading":"h2","banner_height_desktop":"auto","banner_height_mobile":"auto","bgcolor":"#f5efec","textcolor":"#181818"}},"17298423011c77dd6f":{"type":"apps","blocks":{"shop_quiz_product_recommender_inline_quiz_73DL9U":{"type":"shopify:\/\/apps\/shop-quiz-product-recommender\/blocks\/inline-quiz\/672f3d48-fd3b-4227-8778-c6e58c4f8a98","settings":{"quiz_id":"AoH6g5P","quiz_height":1000,"quiz_autoscroll":true,"quiz_fixed_height":false}}},"block_order":["shop_quiz_product_recommender_inline_quiz_73DL9U"],"settings":{"top_space_desktop":30,"bottom_space_desktop":30,"top_space_mobile":30,"bottom_space_mobile":30}}},"order":["image_banner_ijEqT7","slider_bbU34D","main-page","17298423011c77dd6f"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_ijEqT7": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "enable_parallax": true,
+        "section_visibility": "always",
+        "image": "shopify://shop_images/Botella_gin_fondo_extendido.png",
+        "desktop_height": "750px",
+        "mobile_height": "500px",
+        "banner_title": "Crea Tu Ginebra Personalizada",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "desktop_title_size": 70,
+        "mobile_title_size": 36,
+        "banner_desc": "¡Bienvenido a Gins 4U! Aquí puedes crear una ginebra única y personalizada que se adapte perfectamente a tus gustos. Simplemente responde a las siguientes preguntas y nosotros haremos el resto. Al final, te recomendaremos una ginebra exclusiva, y podrás personalizar la botella y la etiqueta a tu gusto. ¡Comencemos!",
+        "button_text": "comenzar",
+        "button_link": "shopify://collections/all",
+        "button_size": "large",
+        "mobile_button_size": "m-large",
+        "content_position": "center-center",
+        "title_color": "#000000",
+        "desc_color": "#000000",
+        "btn_bg": "#000000",
+        "btn_text": "#ffffff",
+        "btn_border": "#000000",
+        "overlay_color": "",
+        "overlay_opacity": 50
+      }
+    },
+    "slider_bbU34D": {
+      "type": "slider",
+      "blocks": {
+        "slide_bJgnaq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Botella_gin_fondo_extendido.png",
+            "videofile": "",
+            "banner_subtitle": "",
+            "banner_title": "Crea Tu Ginebra Personalizada",
+            "seo_heading": "h2",
+            "banner_desc": "¡Bienvenido a Gins 4U! Aquí puedes crear una ginebra única y personalizada que se adapte perfectamente a tus gustos. Simplemente responde a las siguientes preguntas y nosotros haremos el resto. Al final, te recomendaremos una ginebra exclusiva, y podrás personalizar la botella y la etiqueta a tu gusto. ¡Comencemos!",
+            "desktop_title_size": 70,
+            "mobile_title_size": 36,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "comenzar",
+            "button_link": "shopify://collections/all",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center-right",
+            "mobile_content_position": "m-center",
+            "title_color": "#000000",
+            "subtitle_color": "#000000",
+            "subtitle_bgcolor": "#dcdcdc",
+            "desc_color": "#000000",
+            "btn_bg": "#000000",
+            "btn_text": "#ffffff",
+            "btn_border": "#000000",
+            "overlay_color": "",
+            "overlay_opacity": 50,
+            "title_color_m": "#ffffff",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "desc_color_m": "#ffffff",
+            "btn_bg_m": "#ffffff",
+            "btn_text_m": "#000000",
+            "btn_border_m": "#ffffff",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 50
+          }
+        }
+      },
+      "block_order": [
+        "slide_bJgnaq"
+      ],
+      "settings": {
+        "nav_style": "dots",
+        "content_below_image": false,
+        "rotate": false,
+        "interval": 5,
+        "desktop_height": "750px",
+        "mobile_height": "550px",
+        "bgcolor": "primary"
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "seo_heading": "h2",
+        "banner_height_desktop": "auto",
+        "banner_height_mobile": "auto",
+        "bgcolor": "#f5efec",
+        "textcolor": "#181818"
+      }
+    },
+    "17298423011c77dd6f": {
+      "type": "apps",
+      "blocks": {
+        "shop_quiz_product_recommender_inline_quiz_73DL9U": {
+          "type": "shopify://apps/shop-quiz-product-recommender/blocks/inline-quiz/672f3d48-fd3b-4227-8778-c6e58c4f8a98",
+          "settings": {
+            "quiz_id": "e4HBqpA",
+            "quiz_height": 1000,
+            "quiz_autoscroll": true,
+            "quiz_fixed_height": false
+          }
+        }
+      },
+      "block_order": [
+        "shop_quiz_product_recommender_inline_quiz_73DL9U"
+      ],
+      "settings": {
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    }
+  },
+  "order": [
+    "image_banner_ijEqT7",
+    "slider_bbU34D",
+    "main-page",
+    "17298423011c77dd6f"
+  ]
+}
