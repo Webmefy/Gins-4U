@@ -1,1 +1,73 @@
-{"sections":{"main-page":{"type":"main-page","settings":{}}},"order":["main-page"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "settings": {
+        "seo_heading": "h2",
+        "banner_height_desktop": "auto",
+        "banner_height_mobile": "auto",
+        "bgcolor": "#f5efec",
+        "textcolor": "#181818"
+      }
+    },
+    "multi_image_with_text_DLUCmN": {
+      "type": "multi-image-with-text",
+      "blocks": {
+        "text_a47bBm": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "content": "<p>To provide clients insight into your brand, pair words with any image. Here you can tell a narrative, explain a product feature, or introduce a new campaign.</p>"
+          }
+        },
+        "heading_yRmrUN": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Multi image with text",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "heading_size": "h2"
+          }
+        },
+        "image_XpQ3AB": {
+          "type": "image",
+          "settings": {
+            "first_image": "shopify://shop_images/gins_libro.jpg",
+            "second_image": "shopify://shop_images/DSC_0588.jpg",
+            "image_shadow": true,
+            "bgcolor": "secondary",
+            "image_shadow_color": "#dddddd"
+          }
+        }
+      },
+      "block_order": [
+        "text_a47bBm",
+        "heading_yRmrUN",
+        "image_XpQ3AB"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "section_visibility": "always",
+        "bgcolor": "primary",
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 10,
+        "bottom_space_mobile": 10
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "multi_image_with_text_DLUCmN"
+  ]
+}
