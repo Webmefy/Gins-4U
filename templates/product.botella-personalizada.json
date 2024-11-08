@@ -9,6 +9,7 @@
  */
 {
   "order": [
+    "rich_text_bPccFA",
     "17308077179db45856",
     "main-product",
     "image_with_text_tAXXbQ",
@@ -16,6 +17,34 @@
     "166133727946ffaeaa"
   ],
   "sections": {
+    "rich_text_bPccFA": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_PXLEDw": {
+          "type": "richtext",
+          "settings": {
+            "heading": "Personaliza tu botella",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "size": "h2",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "richtext_PXLEDw"
+      ],
+      "settings": {
+        "content_width": "container sm-container",
+        "content_alignment": "center",
+        "bgcolor": "primary",
+        "section_visibility": "always",
+        "top_space_desktop": 50,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
     "17308077179db45856": {
       "type": "apps",
       "blocks": {
